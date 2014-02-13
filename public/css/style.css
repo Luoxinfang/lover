@@ -1,0 +1,28 @@
+body {
+  background:#ffffee;
+  padding: 20px;
+  color: #F00;
+  font-size: 16px;
+  font-family: "楷体", Arial, sans-serif;
+}
+h1{
+  text-align: center;
+}
+br{
+  margin-bottom: 5px;
+}
+#love_heart{
+  width: 80%;
+  height: 800px;
+  margin: 0 auto;
+}
+#msg{
+  display: none;
+  position: absolute;
+  width: 33%;
+  top: 50%;
+  left: 50%;
+  margin-top: -75px;
+  margin-left:-220px;
+  font-weight: bold;
+}
